@@ -1,5 +1,5 @@
-# Service_13_10_GHG-emissions-from-forest-fires
+# Service 13.10 GHG emissions from forest fires
 
-- **Conda users:** Please use `environment.yml` to install the required packages and dependencies to run the code in your virtual environment
+This indicator considers past GHG emission trends from forest fires in Europe and indicates the progress of the EU towards its international and internal GHG targets. This indicator is expressed as CO2 equivalents using the global warming potential (GWP) of main gases emitted during forest fires and the computation is performed following IPCC guidelines. 
 
-- **Non-conda users**: Please use `requirements.txt` to install packages and dependencies to run the code in your virtual environment
+An automatic computation of GHG emissions from forest fires based on information on EO-based burnt area and forest type pre-existing biomass is provided here.
