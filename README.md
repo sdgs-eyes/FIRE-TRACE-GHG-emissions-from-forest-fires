@@ -4,4 +4,4 @@ This indicator considers past GHG emission trends from forest fires in Europe an
 
 An automatic computation of GHG emissions from forest fires based on information on EO-based burnt area and forest type pre-existing biomass is provided here.
 
-![plot](Workflow\workflow.jpg)
+![plot](Workflow/workflow.jpg)
