@@ -1,7 +1,0 @@
-name: pilot1
-channels:
-  - defaults
-dependencies:
-  - jupyter
-  - geopandas
-prefix: C:\Users\Chiara Aquino\anaconda3\envs\pilot1
