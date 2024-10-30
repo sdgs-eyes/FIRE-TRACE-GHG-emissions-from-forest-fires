@@ -1,0 +1,9 @@
+Forest_Type,Severity_Class,EFFIS_Severity_Class,COMBUSTION_FACTOR,COMBUSTION_FACTOR_STD
+Broadleaved,Low severity,2,0.217915,0.048287949
+Broadleaved,Moderate low severity,3,0.329945,0.053377789
+Broadleaved,Moderate high severity,4,0.45845,0.062089822
+Broadleaved,High severity,5,0.812332222,0.088153273
+Conifer,Low severity,2,0.439595,0.039027924
+Conifer,Moderate low severity,3,0.573385,0.04449052
+Conifer,Moderate high severity,4,0.72685,0.053538045
+Conifer,High severity,5,0.962674444,0.079490794
