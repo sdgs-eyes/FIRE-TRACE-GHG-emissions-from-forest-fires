@@ -1,4 +1,4 @@
----
+
 
 <p align="center">
     <img src="img/banner.png" alt="Banner" />
@@ -8,7 +8,7 @@
     <img src="img/LOGO_SDGS_EYES_Color.png" alt="SDG Logo" width="250" />
 </p>
 
-# <span style="color: #22689B;">**User uptake webinar: GHG Emissions from fire: Advancing on SDGs indicators monitoring, reporting and accounting**</span>
+# <span style="color: #22689B;">** GHG Emissions from fire: Advancing on SDGs indicators monitoring, reporting and accounting**</span>
 
 &nbsp;
 
@@ -16,7 +16,6 @@
 
 &nbsp;
 
-<p align="right"><em>BEGINNER-INTERMEDIATE LEVEL</em></p>
 
 ---
 
