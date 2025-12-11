@@ -1,9 +1,8 @@
-# Calculate GHG emissions from forest fires
+# FIRE-TRACE - Tier 3 Monitoring of Greenhouse Gas Emissions from Forest Fires in Italy: An Earth Observation-Based Framework in support of the UN Climate Goals
+Chiara Aquino, Valentina Bacciu, Maria Vincenza Chiriacò, Alessandro D’Anca, Jishnu Jeevan, Sergio Noce, Adriana Torelli, Manuela Balzarolo
 
-## Credit
-- Chiara Aquino
-- Manuela Balzarolo
-- Maria Vincenza Chiriacò
+## Abstract
+Greenhouse gas (GHG) emissions from forest fires are increasingly contributing to atmospheric concentrations of climate-altering gases and represent a growing and poorly constrained component of global carbon budgets, particularly under more frequent droughts and heatwaves. Closing this gap is critical for achieving the United Nations Sustainable Development Goal (SDG) 13, specifically indicator 13.2.2, “Total GHG emissions per year”, urging accurate quantification and monitoring for timely mitigation strategies. Here we introduce FIRE-TRACE, an Earth Observation-based framework integrating satellite data with field-based biomass measurements to improve estimates of forest fuel load and fire emissions. Unlike existing national inventories and global satellite products, FIRE-TRACE resolves spatial variation in burned area and fire severity at the scale of individual fires, enabling emission disaggregation across ecological and administrative units. This work advances SDG 13 by providing a standardised approach, demonstrated for Italy over the period 2018-2023 yet transferable to other countries and time periods, thereby strengthening national reporting capacities and advancing global climate monitoring.
 
 ## Overview
 This repository provides the functions to calculate GHG emissions from forest fires, given a burnt area. 
@@ -23,6 +22,3 @@ C = combustion factor, portion of biomass combusted [dimensionless]
 <br>
 D = emission factor [g GHG kg–1] for each GHG compound. 
 
-**References**
-<br>
-Chiriacò, M.V., Perugini, L., Cimini, D., D’Amato, E., Valentini, R., Bovio, G., Corona, P. and Barbati, A., 2013. Comparison of approaches for reporting forest fire-related biomass loss and greenhouse gas emissions in southern Europe. _International Journal of Wildland Fire_, 22(6), pp.730-738.
