@@ -1,4 +1,4 @@
-# FIRE-TRACE - Tier 3 Monitoring of Greenhouse Gas Emissions from Forest Fires ## An Earth Observation-Based Framework in support of the UN Climate Goals
+# FIRE-TRACE - Tier 3 Monitoring of Greenhouse Gas Emissions from Forest Fires
 Chiara Aquino, Valentina Bacciu, Maria Vincenza Chiriacò, Alessandro D’Anca, Jishnu Jeevan, Sergio Noce, Adriana Torelli, Manuela Balzarolo
 
 ## Abstract
