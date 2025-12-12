@@ -11,7 +11,7 @@
 # <span style="color: #22689B;">**FIRE-TRACE - Tier 3 Monitoring of Greenhouse Gas Emissions from Forest Fires**</span>
 
 
-## <span style="color: #22689B;">Advancing on SDGs indicators monitoring, reporting and accounting</span>
+## <span style="color: #22689B;">**Advancing on SDGs indicators monitoring, reporting and accounting**</span>
 
 ---
 
@@ -48,7 +48,7 @@ We will showcase a new methodology that allow us to assess emissions from wildfi
     <em><a href="http://51.158.73.145:5000/">Burnt area of the wildfires in Oristano, Sardinia region, 2021.</a></em>
 </p>
 
-### Used Datasets
+### <span style="color: #22689B;">Used Datasets</span>
 
 The Copernicus Service offers a wide variety of environmental data that can be used for multiple purposes. The available products include observational data, remote sensing, modeling, ocean and climate indicators, etc. Each type of data has its own characteristics, such as spatial and temporal resolution, available variables (physical, chemical, biogeochemical), frequency of database updates, and more.
 
@@ -74,17 +74,19 @@ where:
 **C<sub>f</sub>** = combustion factor, portion of biomass combusted [dimensionless], derived from EFFIS Fire severity product and the biomass efficiency model calibrated for Italy (Aquino et al., 202X)  
 **G<sub>ef</sub>** = emission factor [g GHG kg⁻¹] for each GHG compound, taken by the NEIVAv1.0 database
 
-### References
+### <span style="color: #22689B;">References</span> 
 
 - Intergovernamental Panel on Climate Change (IPCC), 2006. 2006 IPCC guidelines for national greenhouse gas inventories. _Institute for global environmental strategies, Hayama, Kanagawa, Japan_.
 
 - Chiriaco, M.V., Perugini, L., Cimini, D., D'Amato, E., Valentini, R., Bovio, G., Corona, P. and Barbati, A., 2013. Comparison of approaches for reporting forest fire-related biomass loss and greenhouse gas emissions in southern Europe. _International Journal of Wildland Fire_, 22(6), pp.730-738.
 
-### Set up
+### <span style="color: #22689B;">Set up workflow to calculate GHGs from forest fires </span>
+
+- **Conda users:** Please use `environment.yml` to install the required packages and dependencies to run the code in your virtual environment
+
+- **Non-conda users**: Please use `requirements.txt` to install packages and dependencies to run the code in your virtual environment
 
 
-
-**General Note**:
 
 #### **Select parameters and input data**
 
