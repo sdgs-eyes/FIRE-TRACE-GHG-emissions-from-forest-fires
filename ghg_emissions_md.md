@@ -31,8 +31,7 @@
 
 ---
 
----
-
+<a id="introduction"></a>
 ## <span style="color: #22689B;">**1. Introduction**</span>
 
 [Go back to the "Table of Contents"](#table-of-contents)
@@ -56,7 +55,7 @@ The Copernicus Service offers a wide variety of environmental data that can be u
 By leveraging Copernicus data, the workflow presented here provides high spatial and temporal coverage, allowing us to assess GHG emissions across the entire study area, for a year of choice.
 
 ---
-
+<a id="estimating-ghg-emissions"></a>
 ## <span style="color: #22689B;">**2. Estimating GHG emissions**</span>
 
 [Go back to the "Table of Contents"](#table-of-contents)
@@ -90,19 +89,19 @@ where:
 #### **Select parameters and input data**
 
 ---
-
+<a id="visualisation-of-ghgs-over-selected-region"></a>
 ## <span style="color: #22689B;">**3. Visualisation of GHGs over selected region**</span>
 
 [Go back to the "Table of Contents"](#table-of-contents)
 
 ---
-
+<a id="visualization-of-ghgs-timeseries-over-selected-region"></a>
 ## <span style="color: #22689B;">**4. Visualisation of GHGs timeseries over selected region**</span>
 
 [Go back to the "Table of Contents"](#table-of-contents)
 
 ---
-
+<a id="save-your-data"></a>
 ## <span style="color: #22689B;">**5. Save data**</span>
 
 [Go back to the "Table of Contents"](#table-of-contents)
