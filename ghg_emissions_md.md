@@ -8,7 +8,7 @@
     " />
 </p>
 
-# <span style="color: #22689B;">**FIRE-TRACE - Tier 3 Monitoring of Greenhouse Gas Emissions from Forest Fires**</span>
+# <span style="color: #22689B;">**FIRE-TRACE - Tier 2 Monitoring of Greenhouse Gas Emissions from Forest Fires**</span>
 
 
 ## <span style="color: #22689B;">**Advancing on SDGs indicators monitoring, reporting and accounting**</span>
