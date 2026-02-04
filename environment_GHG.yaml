@@ -1,0 +1,17 @@
+name: fire_trace_GHG
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.6
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - gdal
+  - geopandas
+  - shapely
+  - fiona
+  - pyproj
+  - toml
+  - pip

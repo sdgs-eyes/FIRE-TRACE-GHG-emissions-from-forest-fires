@@ -146,7 +146,9 @@ def read_biomass_table(path):
     biomass = biomass.iloc[1:]
 
     #Ensure all columns after the first are float numbers
-    biomass.iloc[:, 1:] = biomass.iloc[:, 1:].astype(float)
+    #biomass.iloc[:, 1:] = biomass.iloc[:, 1:].astype(float)
+    for col in biomass.columns[1:]:
+        biomass[col] = biomass[col].astype(float)
 
     #Transform all 0s in NANs 
     biomass = biomass.replace(0, np.nan)
