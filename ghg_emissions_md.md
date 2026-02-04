@@ -40,7 +40,14 @@ Wildfires have a long list of socioeconomic impacts, including material and huma
 
 Wildfires also generate suspended particles, especially **fine particulate matter (PM2.5)**, which can penetrate deep into the lungs, causing respiratory problems, and reach the bloodstream, leading to various cardiovascular conditions. The combination of these pollutants creates a significant burden on ecosystems, the atmosphere, and exposed populations, especially in areas close to the fires or under the influence of air currents that carry these emissions.
 
-We will showcase a new methodology that allow us to assess emissions from wildfires in Italy using a variety of Earth Observation data from the Copernicus service.
+Resultantly, Greenhouse gas (GHG) emissions from forest fires are increasingly contributing to atmospheric concentrations of climate-altering gases and represent a growing and poorly constrained component of global carbon budgets, particularly under more frequent droughts and heatwaves. Closing this gap is critical for achieving the United Nations Sustainable Development Goal (SDG) 13, specifically indicator 13.2.2, “Total GHG emissions per year”, urging accurate quantification and monitoring for timely mitigation strategies. Here we introduce FIRE-TRACE, an Earth Observation-based framework integrating satellite data with field-based biomass measurements to improve estimates of forest fuel load and fire emissions. Unlike existing national inventories and global satellite products, FIRE-TRACE resolves spatial variation in burned area and fire severity at the scale of individual fires, enabling emission disaggregation across ecological and administrative units. This work advances SDG 13 by providing a standardised approach, demonstrated for Italy over the period 2018-2023 yet transferable to other countries and time periods, thereby strengthening national reporting capacities and advancing global climate monitoring.
+
+
+Here we present two different workflows:
+- `get_ghg_emissions_with_in_situ_forest_biomass.ipynb` that leverages on in-situ data
+- `get_ghg_emissions_with_esa_forest_biomass.ipynb` that leverages on remote sensing data
+
+For the complete implementation, refer to [`scripts`](scripts).
 
 <p align="center">
     <img src="scripts/img/platform.png" alt="Platform" />
@@ -82,7 +89,7 @@ where:
 
 ### <span style="color: #22689B;">Set up workflow to calculate GHGs from forest fires </span>
 
-- **Conda users:** Please use `environment.yml` to install the required packages and dependencies to run the code in your virtual environment
+- **Conda users:** Please use [`environment_GHG.yaml`](\environment_GHG.yaml) to install the required packages and dependencies to run the code in your virtual environment
 
 - **Non-conda users**: Please use `requirements.txt` to install packages and dependencies to run the code in your virtual environment
 
