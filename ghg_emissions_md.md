@@ -87,7 +87,7 @@ where:
 
 - Chiriaco, M.V., Perugini, L., Cimini, D., D'Amato, E., Valentini, R., Bovio, G., Corona, P. and Barbati, A., 2013. Comparison of approaches for reporting forest fire-related biomass loss and greenhouse gas emissions in southern Europe. _International Journal of Wildland Fire_, 22(6), pp.730-738.
 
-### <span style="color: #22689B;">Set up workflow to calculate GHGs from forest fires </span>
+### <span style="color: #22689B;">Set up environment to run workflows to calculate GHGs from forest fires </span>
 
 - **Conda users:** Please use [`environment_GHG.yaml`](\environment_GHG.yaml) to install the required packages and dependencies to run the code in your virtual environment
 
